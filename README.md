@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdulkareem Abdulqoyyum</h1>
+<h1 align="center">Hi 👋, I'm Qoyman</h1>
+
+![screenshot](/images/Group%206.png)
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoyman" alt="qoyman" /></a> </p>
@@ -17,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/qoyman](https://github.com/qoyman)
 
-- ⚡ Fun fact **I create food content when I'm bored**
+- ⚡ Fun fact about me **I create food content when I'm bored**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
